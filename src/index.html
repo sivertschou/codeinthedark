@@ -1,13 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Code in the Dark</title>
-  </head>
 
-  <body>
-    <main id="app"></main>
-    <script type="module" src="index.tsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Code in the Dark</title>
+
+</head>
+
+<body>
+  <style>
+    @font-face {
+      font-family: 'FFDINWebProLight';
+      src: url('fonts/32ABFA_0_0.woff2') format('woff2')
+    }
+
+    @font-face {
+      font-family: 'NewZaldBook';
+      src: url('fonts/NewzaldWeb-Book.woff2') format('woff2')
+    }
+
+    html {
+      color: white;
+      background-color: black;
+      font-family: "FFDINWebProLight";
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "NewZaldBook";
+    }
+  </style>
+  <main id="app"></main>
+  <script type="module" src="index.tsx"></script>
+</body>
+
 </html>
