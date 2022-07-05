@@ -42,7 +42,7 @@ const prosjekter: Prosjekt[] = [
       "https://images.ctfassets.net/1qpxx0gkt9lo/5rIowmUNk4OeKwCokqeCiU/bcce148ea7bb4ff818dbafa18e05d34d/bekk_2017_nrksuper02_hvavigjor.jpg",
   },
   {
-    tittel: "En tverrfaglig reise med Pushwagnersizer",
+    tittel: "Operaen - Et nødvendig sceneskifte",
     beskrivelse:
       "Tiden løper ubekymret i fra oss alle, inkludert digitale løsninger og tjenester. Så, etter å ha prestert i nesten 7 år på samme tekniske plattform, var Operaen.no moden for en revitalisering.",
     bildeUrl:
